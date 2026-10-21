@@ -1,0 +1,45 @@
+{
+  "title": "Code and reproduction materials for “State-resolved multimodal contributions to stratospheric polar vortex predictability”",
+  "software_authors": [
+    {
+      "family-names": "Yang",
+      "given-names": "Shuo"
+    }
+  ],
+  "version": "v1.0.0",
+  "copyright": "Copyright (c) 2026 Shuo Yang",
+  "software_license": "MIT",
+  "source_data_citation": "Copernicus Climate Change Service (2018), ERA5 hourly data on pressure levels from 1940 to present, https://doi.org/10.24381/cds.bd0915c6.",
+  "ssw_catalogue_source": "Dates calculated by Shuo Yang following Charlton and Polvani (2007), DOI 10.1175/JCLI3996.1; author confirmed.",
+  "publication_date": null,
+  "software_doi": null,
+  "login_or_upload_performed": false,
+  "metadata_only_changes": [
+    "CHANGELOG.md",
+    "CITATION.cff",
+    "LICENSE",
+    "README.md",
+    "README_zh-CN.md",
+    "docs/DATA_AND_REPRODUCTION.md",
+    "docs/GITHUB_UPLOAD_zh-CN.md",
+    "docs/RELEASE_CHECKLIST.md",
+    "docs/ZENODO_DESCRIPTION_EN.txt",
+    "docs/ZENODO_UPLOAD_zh-CN.md",
+    "validation/RELEASE_VALIDATION.json"
+  ],
+  "protected_code_cache_csv_and_figure_files": 85,
+  "checks": {
+    "yaml_syntax_and_known_fields": true,
+    "formal_MIT_holder_verified": true,
+    "all_source_package_files_preserved": true,
+    "protected_code_cache_csv_and_figures_unchanged": 85,
+    "actual_publication_date_and_software_DOI_not_invented": true,
+    "removed_superseded_templates": [
+      "LICENSE.template",
+      "CITATION.cff.template"
+    ],
+    "scientific_results_recomputed": false,
+    "SSW_provenance_author_confirmed": true
+  },
+  "ssw_provenance_update_date": "2026-10-19"
+}

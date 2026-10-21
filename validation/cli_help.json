@@ -1,0 +1,17 @@
+{
+  "reproduce.py": "passed",
+  "verify_release.py": "passed",
+  "code/redraw_final.py": "passed",
+  "code/replot_publication.py": "passed",
+  "code/reproduce_fig1a_no_orientation.py": "passed",
+  "code/reproduce_fig1_fig2.py": "passed",
+  "code/reproduce_fig3.py": "passed",
+  "code/reproduce_fig4.py": "passed",
+  "code/reproduce_fig5.py": "passed",
+  "code/reproduce_figS1_figS2.py": "passed",
+  "code/reproduce_figS3.py": "passed",
+  "code/reproduce_figS4_S5_S6.py": "passed",
+  "code/reproduce_figS7_S8.py": "passed",
+  "code/reproduce_figS9.py": "passed",
+  "code/verify_final_pearson.py": "passed"
+}

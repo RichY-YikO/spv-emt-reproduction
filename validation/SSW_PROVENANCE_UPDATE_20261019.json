@@ -1,0 +1,21 @@
+{
+  "author_confirmation": "SSW event dates calculated by Shuo Yang using Charlton and Polvani (2007).",
+  "method_doi": "10.1175/JCLI3996.1",
+  "metadata_only": true,
+  "date_or_classification_changes": false,
+  "protected_files_unchanged": 85,
+  "scientific_results_recomputed": false,
+  "metadata_files_changed": [
+    "CHANGELOG.md",
+    "README.md",
+    "README_zh-CN.md",
+    "docs/DATA_AND_REPRODUCTION.md",
+    "docs/RELEASE_CHECKLIST.md",
+    "docs/SSW_EVENT_PROVENANCE.md",
+    "docs/ZENODO_DESCRIPTION_EN.txt",
+    "docs/ZENODO_UPLOAD_zh-CN.md",
+    "validation/ARCHIVE_CANDIDATE_20261019.json",
+    "validation/RELEASE_VALIDATION.json"
+  ],
+  "source_statement": "Dates calculated by Shuo Yang using Charlton and Polvani (2007)."
+}

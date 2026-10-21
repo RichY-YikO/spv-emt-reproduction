@@ -1,0 +1,32 @@
+{
+  "FigS1": {
+    "cache_values_and_fixed_lag_envelope_verified": true,
+    "panels": 6
+  },
+  "FigS2": {
+    "cache_values_and_fixed_lag_envelope_verified": true,
+    "panels": 7
+  },
+  "FigS3": {
+    "all_curves_and_bands_unchanged": true
+  },
+  "FigS4": {
+    "all_curves_and_bands_unchanged": true
+  },
+  "FigS5": {
+    "all_curves_and_bands_unchanged": true
+  },
+  "FigS6": {
+    "all_curves_and_bands_unchanged": true
+  },
+  "FigS7": {
+    "all_curves_and_bands_unchanged": true
+  },
+  "FigS8": {
+    "all_curves_unchanged": true
+  },
+  "FigS9": {
+    "all_curves_and_bands_unchanged": true,
+    "dashed_halo_verified": true
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "source": "final local delivery 2026-10-18",
+  "files": [
+    {
+      "file": "publication_revision.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "publication_style.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "replot_publication.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "reproduce_fig1_fig2.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "reproduce_fig1a_no_orientation.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "reproduce_fig3.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "reproduce_fig4.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "reproduce_fig5.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "reproduce_figS1_figS2.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "reproduce_figS3.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "reproduce_figS4_S5_S6.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "reproduce_figS7_S8.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "reproduce_figS9.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "supplement_style.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "verify_final_pearson.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "verify_publication.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    },
+    {
+      "file": "verify_supplement_figures.py",
+      "docstring_removal_ast_verified": true,
+      "portable_path_defaults": true
+    }
+  ],
+  "excluded_historical_scripts": [
+    "reproduce_fig1_sign_convention.py",
+    "reproduce_figS4_figS5.py",
+    "verify_fig1_sign.py",
+    "verify_revision_20261013.py",
+    "重绘最终版.py"
+  ],
+  "python": "3.10.13"
+}

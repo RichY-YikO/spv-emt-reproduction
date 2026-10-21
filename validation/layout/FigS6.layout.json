@@ -1,0 +1,20 @@
+{
+  "panels": [
+    "(a)",
+    "(b)",
+    "(c)",
+    "(d)",
+    "(e)",
+    "(f)",
+    "(g)",
+    "(h)",
+    "(i)",
+    "(j)",
+    "(k)",
+    "(l)"
+  ],
+  "legends_inside": true,
+  "rasterization_disabled": true,
+  "font": "Times New Roman",
+  "width_inches": 7.2
+}

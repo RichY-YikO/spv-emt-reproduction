@@ -1,0 +1,30 @@
+{
+  "statistic_kind": "pearson_negated_raw_scores_v1",
+  "orientation_applied": false,
+  "score_multiplier": -1,
+  "mean": "own mean of NEGATED scores on each lag paired sample",
+  "surrogates": 999,
+  "seed": 2026091206,
+  "source_cache_sha256": "63bd88a457f02537809f79ae8aef9ad10668c6adf993e160a9d73f1a77c7b2ae",
+  "decomposition_recomputed": false,
+  "first_six_r": [
+    0.9793716982451013,
+    0.2126080489253004,
+    0.14676635827322052,
+    -0.05934671010317049,
+    0.044395695533591344,
+    -0.2068961305916084
+  ],
+  "first_six_lags": [
+    0,
+    21,
+    28,
+    25,
+    14,
+    7
+  ],
+  "max_change_from_previous": 7.297280487650326e-07,
+  "Fig1_envelope": "signed maximum absolute correlation reselected over lags 0..60 for each surrogate",
+  "FigS1_envelope": "fixed-lag 2.5/97.5 percentiles, no lag selection",
+  "elapsed_seconds": 30.328999999997905
+}

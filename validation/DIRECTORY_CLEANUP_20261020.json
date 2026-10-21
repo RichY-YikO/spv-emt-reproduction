@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-20",
+  "version": "v1.0.0",
+  "operation": "Select final drawing data; separate recomputation reference inputs and validation metadata",
+  "migration": {
+    "mapping": {
+      "code/fig1_fig2_results/S_basis_and_correlations.npz": "code/reference_inputs/S_basis_and_correlations.npz",
+      "code/fig1_fig2_results/spv_daily.csv": "code/reference_inputs/spv_daily.csv",
+      "code/Fig1a_no_orientation_20261014/Fig1a_no_orientation_data.npz": "code/fig1_fig2_results/S_final_pearson.npz",
+      "code/Fig1a_no_orientation_20261014/Fig1a_no_orientation_top100.csv": "code/fig1_fig2_results/S_top100.csv",
+      "code/Fig1a_no_orientation_20261014/calculation_and_validation.json": "validation/fig1_pearson/calculation_and_validation.json",
+      "figures/pdf/Fig1.layout.json": "validation/layout/Fig1.layout.json",
+      "figures/pdf/Fig2.layout.json": "validation/layout/Fig2.layout.json",
+      "figures/pdf/Fig3.layout.json": "validation/layout/Fig3.layout.json",
+      "figures/pdf/Fig4.layout.json": "validation/layout/Fig4.layout.json",
+      "figures/pdf/Fig5.layout.json": "validation/layout/Fig5.layout.json",
+      "figures/pdf/FigS1.layout.json": "validation/layout/FigS1.layout.json",
+      "figures/pdf/FigS2.layout.json": "validation/layout/FigS2.layout.json",
+      "figures/pdf/FigS3.layout.json": "validation/layout/FigS3.layout.json",
+      "figures/pdf/FigS4.layout.json": "validation/layout/FigS4.layout.json",
+      "figures/pdf/FigS5.layout.json": "validation/layout/FigS5.layout.json",
+      "figures/pdf/FigS6.layout.json": "validation/layout/FigS6.layout.json",
+      "figures/pdf/FigS7.layout.json": "validation/layout/FigS7.layout.json",
+      "figures/pdf/FigS8.layout.json": "validation/layout/FigS8.layout.json",
+      "figures/pdf/FigS9.layout.json": "validation/layout/FigS9.layout.json"
+    },
+    "removed": [
+      "code/fig1_fig2_results/spv_climatology.npz",
+      "code/fig1_fig2_results/t_climatology.npz"
+    ],
+    "replaced_legacy": "code/fig1_fig2_results/S_top100.csv"
+  },
+  "verification": {
+    "all_preserved_scientific_files_hash_verified": true,
+    "shipped_pdf_png_unchanged": 28,
+    "fig4_inputs_identical": true,
+    "final_S_csv_matches_final_cache": true,
+    "explicit_output_reference_paths_verified": true,
+    "cli_help_passed": [
+      "replot_publication.py",
+      "reproduce_fig1_fig2.py",
+      "reproduce_fig1a_no_orientation.py",
+      "reproduce_fig3.py",
+      "reproduce_fig4.py",
+      "reproduce_fig5.py",
+      "reproduce_figS1_figS2.py",
+      "reproduce_figS3.py",
+      "reproduce_figS4_S5_S6.py",
+      "reproduce_figS7_S8.py",
+      "reproduce_figS9.py",
+      "verify_final_pearson.py",
+      "verify_publication.py",
+      "reproduce.py",
+      "verify_release.py"
+    ]
+  },
+  "pearson": {
+    "statistic": "standard Pearson of negated raw scores",
+    "all_12100_correlations_verified": true,
+    "negative_of_raw_Pearson": true,
+    "paired_dates_and_counts_unchanged": true,
+    "raw_basis_scores_and_spatial_directions_unchanged": false,
+    "all_fixed_and_maxabs_envelopes_match_independent_Pearson_reference": true,
+    "independent_999_surrogate_fixed_lag_spot_checks": 15,
+    "max_direct_formula_error": 4.440892098500626e-15
+  },
+  "redraw_pixel_comparisons": [
+    {
+      "figure": "Fig1",
+      "original_size": [
+        4295,
+        4430
+      ],
+      "redraw_size": [
+        4295,
+        4430
+      ],
+      "pixels_identical": true
+    },
+    {
+      "figure": "Fig2",
+      "original_size": [
+        4339,
+        4430
+      ],
+      "redraw_size": [
+        4339,
+        4430
+      ],
+      "pixels_identical": true
+    },
+    {
+      "figure": "FigS1",
+      "original_size": [
+        4349,
+        2680
+      ],
+      "redraw_size": [
+        4349,
+        2680
+      ],
+      "pixels_identical": true
+    },
+    {
+      "figure": "FigS2",
+      "original_size": [
+        4361,
+        2012
+      ],
+      "redraw_size": [
+        4361,
+        2012
+      ],
+      "pixels_identical": true
+    }
+  ],
+  "raw_entry_path_tests": {
+    "custom_output_routing": true,
+    "result_folder_contains_only_five_final_files": true,
+    "reference_and_validation_separated": true,
+    "raw_computation_mocked": true,
+    "explicit_SI_input_paths": true,
+    "cached_inference_output_routing": true,
+    "cached_inference_mocked": true
+  },
+  "shipped_pdfs_audited": 14,
+  "fresh_redraw_pdfs_audited": 4,
+  "pdf_fonts_embedded": true,
+  "raster_image_objects": 0,
+  "table_S1_original_excel_bytes_preserved": true,
+  "table_S1_csv_tolerance": 1e-10,
+  "full_raw_data_recalculation_run": false,
+  "zip_updated": false,
+  "remote_upload_performed": false,
+  "historical_reports": "Older dated validation records describe their original executions; current paths are in source_data_sha256.json and CHECKSUMS.sha256."
+}

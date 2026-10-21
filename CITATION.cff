@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+type: software
+title: "Code and reproduction materials for “State-resolved multimodal contributions to stratospheric polar vortex predictability”"
+version: v1.0.0
+authors:
+  - family-names: Yang
+    given-names: Shuo
+license: MIT
+abstract: "Analysis code, frozen numerical caches, CSV tables and publication figures for SPV eigen microstate reproduction. The code license is MIT; data provenance and terms are documented separately."
+keywords:
+  - stratospheric polar vortex
+  - eigen microstates
+  - reproducibility

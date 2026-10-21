@@ -1,0 +1,101 @@
+{
+  "nominal_space_panel_diameter_inches": 1.56,
+  "actual_map_axes_inches": {
+    "Fig1": [
+      [
+        1.5582494264486486,
+        1.56
+      ],
+      [
+        1.5582494264486486,
+        1.56
+      ],
+      [
+        1.5582494264486486,
+        1.56
+      ],
+      [
+        1.5582494264486486,
+        1.56
+      ],
+      [
+        1.5582494264486486,
+        1.56
+      ],
+      [
+        1.5582494264486486,
+        1.56
+      ]
+    ],
+    "Fig2": [
+      [
+        1.5582494264486482,
+        1.56
+      ],
+      [
+        1.5582494264486482,
+        1.56
+      ],
+      [
+        1.5582494264486486,
+        1.56
+      ],
+      [
+        1.5582494264486486,
+        1.56
+      ],
+      [
+        1.5582494264486486,
+        1.56
+      ],
+      [
+        1.5582494264486486,
+        1.56
+      ],
+      [
+        1.5582494264486486,
+        1.56
+      ]
+    ]
+  },
+  "all_six_maps_match_Fig2": true,
+  "Fig1_top_panel_data_unchanged": true,
+  "only_three_layout_assignments_changed": true,
+  "scientific_inference_recomputed": false,
+  "Fig2_and_all_other_figure_files_unchanged": true,
+  "all_NPZ_and_CSV_files_unchanged": true,
+  "vector_pdf": {
+    "file": "figures/pdf/Fig1.pdf",
+    "pages": 1,
+    "raster_image_objects": 0,
+    "embedded_fonts": {
+      "/F1": "/BHPGQY+TimesNewRomanPSMT",
+      "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT"
+    },
+    "panel_count": 7,
+    "legends_inside": true,
+    "PNG_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "PNG_dimensions": [
+      4295,
+      4430
+    ]
+  },
+  "visual_review_passed": true,
+  "prior_Fig1_file_hashes": [
+    {
+      "file": "figures/pdf/Fig1.pdf",
+      "sha256": "68c4064f7de7005b7896a65aaf15cd8ef0099b39b69d17b7de6af50d021e9c0d",
+      "bytes": 2292081
+    },
+    {
+      "file": "figures/png/Fig1.png",
+      "sha256": "1ce369865e7d0918e30d4dbb5a9fbec3feddfabf40c04d83542d16679f1bc5f9",
+      "bytes": 2761177
+    }
+  ],
+  "layout_update_date": "2026-10-19",
+  "archive_layout_preserved": true
+}

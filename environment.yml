@@ -1,0 +1,16 @@
+name: spv-emt
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - numpy==1.26.4
+    - scipy==1.13.0
+    - matplotlib==3.8.4
+    - cartopy==0.24.1
+    - xarray==2023.6.0
+    - netCDF4==1.6.5
+    - openpyxl==3.1.5
+    - pypdf==6.10.0
+    - Pillow==12.3.0

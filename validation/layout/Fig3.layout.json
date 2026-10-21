@@ -1,0 +1,12 @@
+{
+  "panels": [
+    "(a)",
+    "(b)",
+    "(c)",
+    "(d)",
+    "(e)",
+    "(f)"
+  ],
+  "legends_inside": null,
+  "provenance": "Expected panel labels; original geometry metadata unavailable. Fresh redraw geometry is validated separately."
+}

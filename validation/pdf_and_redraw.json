@@ -1,0 +1,389 @@
+{
+  "pdfs": [
+    {
+      "original": {
+        "file": "figures/pdf/Fig1.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT"
+        },
+        "panel_count": 7,
+        "legends_inside": true
+      },
+      "redrawn": {
+        "file": "outputs/pdf/Fig1.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT"
+        },
+        "panel_count": 7,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/Fig2.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT"
+        },
+        "panel_count": 8,
+        "legends_inside": null
+      },
+      "redrawn": {
+        "file": "outputs/pdf/Fig2.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT"
+        },
+        "panel_count": 8,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/Fig3.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": null
+      },
+      "redrawn": {
+        "file": "outputs/pdf/Fig3.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/Fig4.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F3": "/CZRBLR+STIXGeneral-Regular",
+          "/F4": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": null
+      },
+      "redrawn": {
+        "file": "outputs/pdf/Fig4.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F3": "/CZRBLR+STIXGeneral-Regular",
+          "/F4": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/Fig5.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F4": "/CZRBLR+STIXGeneral-Regular",
+          "/F3": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": null
+      },
+      "redrawn": {
+        "file": "outputs/pdf/Fig5.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F4": "/CZRBLR+STIXGeneral-Regular",
+          "/F3": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/FigS1.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F3": "/CZRBLR+STIXGeneral-Regular",
+          "/F4": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      },
+      "redrawn": {
+        "file": "outputs/pdf/FigS1.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F3": "/CZRBLR+STIXGeneral-Regular",
+          "/F4": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/FigS2.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F3": "/CZRBLR+STIXGeneral-Regular",
+          "/F4": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 7,
+        "legends_inside": true
+      },
+      "redrawn": {
+        "file": "outputs/pdf/FigS2.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F2": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F3": "/CZRBLR+STIXGeneral-Regular",
+          "/F4": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 7,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/FigS3.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      },
+      "redrawn": {
+        "file": "outputs/pdf/FigS3.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/FigS4.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 12,
+        "legends_inside": true
+      },
+      "redrawn": {
+        "file": "outputs/pdf/FigS4.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 12,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/FigS5.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 12,
+        "legends_inside": true
+      },
+      "redrawn": {
+        "file": "outputs/pdf/FigS5.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 12,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/FigS6.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 12,
+        "legends_inside": true
+      },
+      "redrawn": {
+        "file": "outputs/pdf/FigS6.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 12,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/FigS7.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      },
+      "redrawn": {
+        "file": "outputs/pdf/FigS7.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/FigS8.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      },
+      "redrawn": {
+        "file": "outputs/pdf/FigS8.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      }
+    },
+    {
+      "original": {
+        "file": "figures/pdf/FigS9.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      },
+      "redrawn": {
+        "file": "outputs/pdf/FigS9.pdf",
+        "pages": 1,
+        "raster_image_objects": 0,
+        "embedded_fonts": {
+          "/F1": "/BHPGQY+TimesNewRomanPSMT",
+          "/F3": "/BHPGQY+TimesNewRomanPS-BoldMT",
+          "/F2": "/FTXWZA+STIXGeneral-Italic"
+        },
+        "panel_count": 6,
+        "legends_inside": true
+      }
+    }
+  ],
+  "all_original_png_600dpi": true,
+  "redraw_pixel_identical": {
+    "Fig1": true,
+    "Fig2": true,
+    "Fig3": true,
+    "Fig4": true,
+    "Fig5": true,
+    "FigS1": true,
+    "FigS2": true,
+    "FigS3": true,
+    "FigS4": true,
+    "FigS5": true,
+    "FigS6": true,
+    "FigS7": true,
+    "FigS8": true,
+    "FigS9": true
+  }
+}

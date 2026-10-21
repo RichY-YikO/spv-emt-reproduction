@@ -1,0 +1,10 @@
+{
+  "statistic": "standard Pearson of negated raw scores",
+  "all_12100_correlations_verified": true,
+  "negative_of_raw_Pearson": true,
+  "paired_dates_and_counts_unchanged": true,
+  "raw_basis_scores_and_spatial_directions_unchanged": false,
+  "all_fixed_and_maxabs_envelopes_match_independent_Pearson_reference": true,
+  "independent_999_surrogate_fixed_lag_spot_checks": 15,
+  "max_direct_formula_error": 4.440892098500626e-15
+}
